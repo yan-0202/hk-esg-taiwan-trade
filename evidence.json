@@ -1,0 +1,264 @@
+{
+  "refs": [
+    {
+      "id": "R1",
+      "authors": "Anderson, J. E., & van Wincoop, E.",
+      "year": 2004,
+      "title": "Trade Costs",
+      "venue": "Journal of Economic Literature, 42(3), 691–751",
+      "doi": "10.1257/0022051042177649",
+      "theme": "貿易成本",
+      "method": "文獻回顧與理論整理",
+      "finding": "跨境交易成本包含運輸與制度摩擦。",
+      "limit": "不能直接估計香港服務對台灣企業的效果。",
+      "read": "出版社摘要",
+      "url": "https://www.aeaweb.org/articles?id=10.1257/0022051042177649"
+    },
+    {
+      "id": "R2",
+      "authors": "Melitz, M. J.",
+      "year": 2003,
+      "title": "The Impact of Trade on Intra-Industry Reallocations and Aggregate Industry Productivity",
+      "venue": "Econometrica, 71(6), 1695–1725",
+      "doi": "10.1111/1468-0262.00467",
+      "theme": "企業差異",
+      "method": "異質企業理論模型",
+      "finding": "固定出口成本與生產力差異影響企業能否出口。",
+      "limit": "把 ESG 合規成本納入是本專題的延伸假說。",
+      "read": "出版社摘要與作者典藏",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/1468-0262.00467"
+    },
+    {
+      "id": "R3",
+      "authors": "Hummels, D. L., & Schaur, G.",
+      "year": 2013,
+      "title": "Time as a Trade Barrier",
+      "venue": "American Economic Review, 103(7), 2935–2959",
+      "doi": "10.1257/aer.103.7.2935",
+      "theme": "運輸時間",
+      "method": "運輸選擇與時間價值估計",
+      "finding": "運送時間本身是一種貿易障礙。",
+      "limit": "無法據此斷言經香港轉運一定更快。",
+      "read": "出版社紀錄與工作論文",
+      "url": "https://www.aeaweb.org/articles?id=10.1257/aer.103.7.2935"
+    },
+    {
+      "id": "R4",
+      "authors": "de Soyres, F., Mulabdic, A., Murray, S., Rocha, N., & Ruta, M.",
+      "year": 2019,
+      "title": "How much will the Belt and Road Initiative reduce trade costs?",
+      "venue": "International Economics, 159, 151–164",
+      "doi": "10.1016/j.inteco.2019.07.003",
+      "theme": "一帶一路",
+      "method": "GIS 運輸網路與成本情境估計",
+      "finding": "交通建設可能降低時間與貿易成本，效益分布不均。",
+      "limit": "屬建設情境分析，並非台灣企業實際獲益估計。",
+      "read": "出版社摘要",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2110701719301799"
+    },
+    {
+      "id": "R5",
+      "authors": "Baniya, S., Rocha, N., & Ruta, M.",
+      "year": 2020,
+      "title": "Trade effects of the New Silk Road: A gravity analysis",
+      "venue": "Journal of Development Economics, 146, 102467",
+      "doi": "10.1016/j.jdeveco.2020.102467",
+      "theme": "一帶一路",
+      "method": "GIS、引力模型與反事實分析",
+      "finding": "運輸改善與配套貿易改革的組合影響預期收益。",
+      "limit": "預期效果不能當成香港 ESG 政策的已實現效果。",
+      "read": "出版社摘要與方法節選；世界銀行版本",
+      "url": "https://doi.org/10.1016/j.jdeveco.2020.102467"
+    },
+    {
+      "id": "R6",
+      "authors": "de Soyres, F., Mulabdic, A., & Ruta, M.",
+      "year": 2020,
+      "title": "Common transport infrastructure: A quantitative model and estimates from the Belt and Road Initiative",
+      "venue": "Journal of Development Economics, 143, 102415",
+      "doi": "10.1016/j.jdeveco.2019.102415",
+      "theme": "一帶一路",
+      "method": "一般均衡與投入產出模型",
+      "finding": "基建效益會透過供應鏈傳遞，投資成本也須計入。",
+      "limit": "貿易增加與淨福利增加不能畫上等號。",
+      "read": "書目摘要與世界銀行研究材料",
+      "url": "https://doi.org/10.1016/j.jdeveco.2019.102415"
+    },
+    {
+      "id": "R7",
+      "authors": "Porter, M. E., & van der Linde, C.",
+      "year": 1995,
+      "title": "Toward a New Conception of the Environment-Competitiveness Relationship",
+      "venue": "Journal of Economic Perspectives, 9(4), 97–118",
+      "doi": "10.1257/jep.9.4.97",
+      "theme": "創新與成本",
+      "method": "理論論述與案例",
+      "finding": "設計得當的環境規範可能刺激創新，抵銷部分成本。",
+      "limit": "是條件式論點，不能保證所有企業都受益。",
+      "read": "出版社摘要",
+      "url": "https://www.aeaweb.org/articles?id=10.1257/jep.9.4.97"
+    },
+    {
+      "id": "R8",
+      "authors": "Flammer, C.",
+      "year": 2021,
+      "title": "Corporate green bonds",
+      "venue": "Journal of Financial Economics, 142(2), 499–516",
+      "doi": "10.1016/j.jfineco.2021.01.010",
+      "theme": "綠色金融",
+      "method": "發債事件與企業資料分析",
+      "finding": "發債訊號、投資人組成與環境表現是重要觀察管道。",
+      "limit": "不是台灣出口研究，也不保證所有發行人利率下降。",
+      "read": "作者典藏論文摘要",
+      "url": "https://sites.bu.edu/cflammer/files/2021/10/Corporate-Green-Bonds_Flammer_JFE2021.pdf"
+    },
+    {
+      "id": "R9",
+      "authors": "Tang, D. Y., & Zhang, Y.",
+      "year": 2020,
+      "title": "Do shareholders benefit from green bonds?",
+      "venue": "Journal of Corporate Finance, 61, 101427",
+      "doi": "10.1016/j.jcorpfin.2018.12.001",
+      "theme": "反面證據",
+      "method": "跨國發債事件與市場反應分析",
+      "finding": "股東可能受益，但沒有一致顯著的綠債價格溢酬。",
+      "limit": "不能預設綠色金融必定降低融資成本。",
+      "read": "出版社摘要與章節節選",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0929119918301664"
+    },
+    {
+      "id": "R10",
+      "authors": "Drempetic, S., Klein, C., & Zwergel, B.",
+      "year": 2020,
+      "title": "The Influence of Firm Size on the ESG Score: Corporate Sustainability Ratings Under Review",
+      "venue": "Journal of Business Ethics, 167, 333–360",
+      "doi": "10.1007/s10551-019-04164-1",
+      "theme": "企業差異",
+      "method": "ASSET4 評級資料分析",
+      "finding": "企業規模與揭露資源可能影響 ESG 評分。",
+      "limit": "高分不等於較低實際排放；研究不是台灣 SME 樣本。",
+      "read": "出版社摘要",
+      "url": "https://link.springer.com/article/10.1007/s10551-019-04164-1"
+    },
+    {
+      "id": "R11",
+      "authors": "Berg, F., Kölbel, J. F., & Rigobon, R.",
+      "year": 2022,
+      "title": "Aggregate Confusion: The Divergence of ESG Ratings",
+      "venue": "Review of Finance, 26(6), 1315–1344",
+      "doi": "10.1093/rof/rfac033",
+      "theme": "測量限制",
+      "method": "六家評級機構的評分分歧分解",
+      "finding": "不同評級在範圍、衡量方式與權重上存在差異。",
+      "limit": "不能把單一 ESG 分數當作跨市場通用合格證。",
+      "read": "出版社摘要與研究節選",
+      "url": "https://academic.oup.com/rof/article/26/6/1315/6590670"
+    },
+    {
+      "id": "R12",
+      "authors": "Wu, Q., Chen, G., Han, J., & Wu, L.",
+      "year": 2022,
+      "title": "Does Corporate ESG Performance Improve Export Intensity? Evidence from Chinese Listed Firms",
+      "venue": "Sustainability, 14(20), 12981",
+      "doi": "10.3390/su142012981",
+      "theme": "ESG 與出口",
+      "method": "中國上市企業面板與管道分析",
+      "finding": "ESG 與出口強度的正向關係涉及創新及融資限制。",
+      "limit": "上市企業與台灣中小企業差異很大，不能直接外推。",
+      "read": "出版社論文摘要",
+      "url": "https://www.mdpi.com/2071-1050/14/20/12981"
+    },
+    {
+      "id": "R13",
+      "authors": "He, H.-Z., Feng, G.-F., & Chang, C.-P.",
+      "year": 2026,
+      "title": "The Impact of ESG Gaps on Green Exports in Bilateral Trade: A Linear and Nonlinear Analysis",
+      "venue": "World Trade Review, 25(2), 153–175",
+      "doi": "10.1017/S1474745625101109",
+      "theme": "ESG 與出口",
+      "method": "跨國面板與非線性分析",
+      "finding": "ESG 差距與綠色出口的關係可能因條件而改變。",
+      "limit": "國家層級結果無法辨識香港平台對台灣企業的效果。",
+      "read": "出版社摘要；2025 線上、2026 卷期",
+      "url": "https://www.cambridge.org/core/journals/world-trade-review/article/impact-of-esg-gaps-on-green-exports-in-bilateral-trade-a-linear-and-nonlinear-analysis/EC25BA5E1ABA18DC7D910C47D17333FA"
+    },
+    {
+      "id": "R14",
+      "authors": "Ahn, J., Amiti, M., & Weinstein, D. E.",
+      "year": 2011,
+      "title": "Trade Finance and the Great Trade Collapse",
+      "venue": "American Economic Review, 101(3), 298–302",
+      "doi": "10.1257/aer.101.3.298",
+      "theme": "貿易融資",
+      "method": "金融危機期間的貿易證據分析",
+      "finding": "金融摩擦是解釋貿易變動的管道之一。",
+      "limit": "危機期間證據不等於平時綠色融資的效果。",
+      "read": "出版社摘要",
+      "url": "https://pubs.aeaweb.org/doi/10.1257/aer.101.3.298"
+    },
+    {
+      "id": "R15",
+      "authors": "Egger, P., & Kesina, M.",
+      "year": 2013,
+      "title": "Financial Constraints and Exports: Evidence from Chinese Firms",
+      "venue": "CESifo Economic Studies, 59(4), 676–706",
+      "doi": "10.1093/cesifo/ifs036",
+      "theme": "企業差異",
+      "method": "企業出口參與與出口占比模型",
+      "finding": "融資限制與是否出口及出口強度的關係值得分開分析。",
+      "limit": "使用中國企業資料，跨制度推論需重新驗證。",
+      "read": "出版社摘要",
+      "url": "https://academic.oup.com/cesifo/article-abstract/59/4/676/493928"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "title": "香港政府：Belt & Road deal signed（2017-12-14）",
+      "url": "https://www.news.gov.hk/en/categories/admin/html/2017/12/20171214_114143.shtml",
+      "finding": "合作安排涵蓋綠色金融、專業服務與爭議解決；屬政策定位，非成效證據。"
+    },
+    {
+      "id": "S2",
+      "title": "香港金管局：Hong Kong Taxonomy for Sustainable Finance（2024-05-03）",
+      "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2024/05/20240503-3/",
+      "finding": "首版分類框架用於協助辨識綠色活動；本專題討論此歷史版本，不宣稱是最新完整分類。"
+    },
+    {
+      "id": "S3",
+      "title": "港交所：Climate Disclosure Requirements（2024-04-19）",
+      "url": "https://www.hkex.com.hk/News/Regulatory-Announcements/2024/240419news?sc_lang=en",
+      "finding": "以 IFRS S2 為基礎，2025 起分階段適用；對象與過渡安排有別，並非所有台灣出口商都直接受規範。"
+    },
+    {
+      "id": "S4",
+      "title": "香港金管局季報（2025 年 3 月），表 B1",
+      "url": "https://www.hkma.gov.hk/media/eng/publication-and-research/quarterly-bulletin/qb202503/fa1.pdf",
+      "finding": "2023／2024 綠色與永續債務：52.3／84.4 十億美元；定義含債券與貸款，非一帶一路專屬資金。"
+    },
+    {
+      "id": "S5",
+      "title": "財政部統計處：113 年我國出進口貿易概況（2025-02-25）",
+      "url": "https://service.mof.gov.tw/public/Data/statistic/bulletin/114/113年我國出進口貿易概況.pdf",
+      "finding": "2024 出口市場占比：陸港 31.7%、美國 23.4%、東協十國 18.5%；陸港合計不能當作香港單獨數據。"
+    },
+    {
+      "id": "S6",
+      "title": "國際貿易署：113 年貿易概況",
+      "url": "https://www.trade.gov.tw/Pages/Detail.aspx?nodeID=4311&pid=796141",
+      "finding": "2024 出口年增率：美國 46.1%、東協 15.1%、陸港 −1.1%、歐洲 −8.6%、日本 −17.8%。"
+    },
+    {
+      "id": "S7",
+      "title": "歐盟執委會：Carbon Border Adjustment Mechanism",
+      "url": "https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism_en",
+      "finding": "CBAM 正式期自 2026-01-01 開始；它是歐盟制度，不能歸為香港政策。"
+    },
+    {
+      "id": "S8",
+      "title": "行政院：對外貿易（113 年資料）",
+      "url": "https://www.ey.gov.tw/state/6A206590076F7EF/8b5032af-1a67-4c02-bd16-8791aa459cd2",
+      "finding": "與財政部及貿易署交叉比對市場占比與成長率；屬同源官方統計轉載，非獨立實證。"
+    }
+  ]
+}

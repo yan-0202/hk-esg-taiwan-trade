@@ -1,0 +1,286 @@
+[
+  {
+    "id": "R1",
+    "status": "UNAVAILABLE",
+    "reason": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "id": "R2",
+    "status": "MATCH",
+    "title": "The Impact of Trade on Intra-Industry Reallocations and Aggregate Industry Productivity",
+    "title_similarity": 1.0,
+    "authors": [
+      "Marc J. Melitz"
+    ],
+    "year": [
+      [
+        2003,
+        11
+      ]
+    ],
+    "volume": "71",
+    "issue": "6",
+    "pages": "1695-1725",
+    "article_number": null,
+    "source": "https://api.crossref.org/works/10.1111%2F1468-0262.00467"
+  },
+  {
+    "id": "R3",
+    "status": "MATCH",
+    "title": "Time as a Trade Barrier",
+    "title_similarity": 1.0,
+    "authors": [
+      "David L Hummels",
+      "Georg Schaur"
+    ],
+    "year": [
+      [
+        2013,
+        12,
+        1
+      ]
+    ],
+    "volume": "103",
+    "issue": "7",
+    "pages": "2935-2959",
+    "article_number": null,
+    "source": "https://api.crossref.org/works/10.1257%2Faer.103.7.2935"
+  },
+  {
+    "id": "R4",
+    "status": "MATCH",
+    "title": "How much will the Belt and Road Initiative reduce trade costs?",
+    "title_similarity": 1.0,
+    "authors": [
+      "François de Soyres",
+      "Alen Mulabdic",
+      "Siobhan Murray",
+      "Nadia Rocha",
+      "Michele Ruta"
+    ],
+    "year": [
+      [
+        2019,
+        10
+      ]
+    ],
+    "volume": "159",
+    "issue": null,
+    "pages": "151-164",
+    "article_number": null,
+    "source": "https://api.crossref.org/works/10.1016%2Fj.inteco.2019.07.003"
+  },
+  {
+    "id": "R5",
+    "status": "MATCH",
+    "title": "Trade effects of the New Silk Road: A gravity analysis",
+    "title_similarity": 1.0,
+    "authors": [
+      "Suprabha Baniya",
+      "Nadia Rocha",
+      "Michele Ruta"
+    ],
+    "year": [
+      [
+        2020,
+        9
+      ]
+    ],
+    "volume": "146",
+    "issue": null,
+    "pages": "102467",
+    "article_number": "102467",
+    "source": "https://api.crossref.org/works/10.1016%2Fj.jdeveco.2020.102467"
+  },
+  {
+    "id": "R6",
+    "status": "UNAVAILABLE",
+    "reason": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "id": "R7",
+    "status": "MATCH",
+    "title": "Toward a New Conception of the Environment-Competitiveness Relationship",
+    "title_similarity": 1.0,
+    "authors": [
+      "Michael E Porter",
+      "Claas van der Linde"
+    ],
+    "year": [
+      [
+        1995,
+        11,
+        1
+      ]
+    ],
+    "volume": "9",
+    "issue": "4",
+    "pages": "97-118",
+    "article_number": null,
+    "source": "https://api.crossref.org/works/10.1257%2Fjep.9.4.97"
+  },
+  {
+    "id": "R8",
+    "status": "UNAVAILABLE",
+    "reason": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "id": "R9",
+    "status": "MATCH",
+    "title": "Do shareholders benefit from green bonds?",
+    "title_similarity": 1.0,
+    "authors": [
+      "Dragon Yongjun Tang",
+      "Yupu Zhang"
+    ],
+    "year": [
+      [
+        2020,
+        4
+      ]
+    ],
+    "volume": "61",
+    "issue": null,
+    "pages": "101427",
+    "article_number": "101427",
+    "source": "https://api.crossref.org/works/10.1016%2Fj.jcorpfin.2018.12.001"
+  },
+  {
+    "id": "R10",
+    "status": "MATCH",
+    "title": "The Influence of Firm Size on the ESG Score: Corporate Sustainability Ratings Under Review",
+    "title_similarity": 1.0,
+    "authors": [
+      "Samuel Drempetic",
+      "Christian Klein",
+      "Bernhard Zwergel"
+    ],
+    "year": [
+      [
+        2019,
+        4,
+        27
+      ]
+    ],
+    "volume": "167",
+    "issue": "2",
+    "pages": "333-360",
+    "article_number": null,
+    "source": "https://api.crossref.org/works/10.1007%2Fs10551-019-04164-1"
+  },
+  {
+    "id": "R11",
+    "status": "MATCH",
+    "title": "Aggregate Confusion: The Divergence of ESG Ratings",
+    "title_similarity": 1.0,
+    "authors": [
+      "Florian Berg",
+      "Julian F Kölbel",
+      "Roberto Rigobon"
+    ],
+    "year": [
+      [
+        2022,
+        5,
+        23
+      ]
+    ],
+    "volume": "26",
+    "issue": "6",
+    "pages": "1315-1344",
+    "article_number": null,
+    "source": "https://api.crossref.org/works/10.1093%2Frof%2Frfac033"
+  },
+  {
+    "id": "R12",
+    "status": "MATCH",
+    "title": "Does Corporate ESG Performance Improve Export Intensity? Evidence from Chinese Listed Firms",
+    "title_similarity": 1.0,
+    "authors": [
+      "Qinglan Wu",
+      "Guifu Chen",
+      "Jing Han",
+      "Liyan Wu"
+    ],
+    "year": [
+      [
+        2022,
+        10,
+        11
+      ]
+    ],
+    "volume": "14",
+    "issue": "20",
+    "pages": "12981",
+    "article_number": null,
+    "source": "https://api.crossref.org/works/10.3390%2Fsu142012981"
+  },
+  {
+    "id": "R13",
+    "status": "MATCH",
+    "title": "The Impact of ESG Gaps on Green Exports in Bilateral Trade: A Linear and Nonlinear Analysis",
+    "title_similarity": 1.0,
+    "authors": [
+      "Hao-Zhe He",
+      "Gen-Fu Feng",
+      "Chun-Ping Chang"
+    ],
+    "year": [
+      [
+        2025,
+        11,
+        19
+      ]
+    ],
+    "volume": "25",
+    "issue": "2",
+    "pages": "153-175",
+    "article_number": null,
+    "source": "https://api.crossref.org/works/10.1017%2FS1474745625101109"
+  },
+  {
+    "id": "R14",
+    "status": "MATCH",
+    "title": "Trade Finance and the Great Trade Collapse",
+    "title_similarity": 1.0,
+    "authors": [
+      "JaeBin Ahn",
+      "Mary Amiti",
+      "David E Weinstein"
+    ],
+    "year": [
+      [
+        2011,
+        5,
+        1
+      ]
+    ],
+    "volume": "101",
+    "issue": "3",
+    "pages": "298-302",
+    "article_number": null,
+    "source": "https://api.crossref.org/works/10.1257%2Faer.101.3.298"
+  },
+  {
+    "id": "R15",
+    "status": "MATCH",
+    "title": "Financial Constraints and Exports: Evidence from Chinese Firms",
+    "title_similarity": 1.0,
+    "authors": [
+      "P. Egger",
+      "M. Kesina"
+    ],
+    "year": [
+      [
+        2013,
+        11,
+        18
+      ]
+    ],
+    "volume": "59",
+    "issue": "4",
+    "pages": "676-706",
+    "article_number": null,
+    "source": "https://api.crossref.org/works/10.1093%2Fcesifo%2Fifs036"
+  }
+]
