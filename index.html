@@ -189,6 +189,7 @@ async function checkConnection(){
   if(!response.ok)throw new Error('此網站未提供問答後端');
   const data=await response.json();
   if(typeof data.key_configured!=='boolean')throw new Error('此入口不是專題問答服務');
+  if(data.cloud&&!data.classroom_open){title.textContent='課堂問答尚未開放或已結束';message.textContent='報告者開放課堂後，同學可直接在此提問；目前可使用下方離線來源查詢。';if(help instanceof HTMLDetailsElement)help.open=false;return;}
   if(!data.key_configured){title.textContent='問答服務已啟動，但尚未設定金鑰';message.textContent='請在下方「設定 Gemini API」輸入金鑰，再按「連接 Gemini」。';if(help instanceof HTMLDetailsElement)help.open=true;return;}
   light.dataset.state='ready';title.textContent='服務已連接，可以試問一題';message.textContent=`模型：${data.model} · 本次已使用 ${data.calls} / ${data.limit} 次。金鑰已設定；是否有效及額度是否可用，要以實際提問結果確認。`;
   if(mode instanceof HTMLSelectElement)mode.value='llm';if(help instanceof HTMLDetailsElement)help.open=false;
