@@ -1,0 +1,14 @@
+{
+  "passed": 7,
+  "neutral": -40,
+  "opportunity": {
+    "nextRevenue": 1050,
+    "demand": 10,
+    "variable": 8.4,
+    "funding": 0.75,
+    "delta": -20.85
+  },
+  "zeroEligibility": 0,
+  "zeroCapital": 0,
+  "negativeRateChange": -3
+}

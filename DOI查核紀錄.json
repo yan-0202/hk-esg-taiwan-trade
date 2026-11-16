@@ -1,286 +1,1503 @@
 [
   {
-    "id": "R1",
-    "status": "UNAVAILABLE",
-    "reason": "HTTP Error 429: Too Many Requests"
-  },
-  {
-    "id": "R2",
-    "status": "MATCH",
-    "title": "The Impact of Trade on Intra-Industry Reallocations and Aggregate Industry Productivity",
-    "title_similarity": 1.0,
-    "authors": [
-      "Marc J. Melitz"
-    ],
-    "year": [
-      [
-        2003,
-        11
-      ]
-    ],
-    "volume": "71",
-    "issue": "6",
-    "pages": "1695-1725",
-    "article_number": null,
-    "source": "https://api.crossref.org/works/10.1111%2F1468-0262.00467"
-  },
-  {
-    "id": "R3",
-    "status": "MATCH",
-    "title": "Time as a Trade Barrier",
-    "title_similarity": 1.0,
-    "authors": [
-      "David L Hummels",
-      "Georg Schaur"
-    ],
-    "year": [
-      [
-        2013,
-        12,
-        1
-      ]
-    ],
-    "volume": "103",
-    "issue": "7",
-    "pages": "2935-2959",
-    "article_number": null,
-    "source": "https://api.crossref.org/works/10.1257%2Faer.103.7.2935"
-  },
-  {
     "id": "R4",
-    "status": "MATCH",
+    "status": "verified_metadata",
+    "year": 2019,
     "title": "How much will the Belt and Road Initiative reduce trade costs?",
-    "title_similarity": 1.0,
-    "authors": [
-      "François de Soyres",
-      "Alen Mulabdic",
-      "Siobhan Murray",
-      "Nadia Rocha",
-      "Michele Ruta"
-    ],
-    "year": [
-      [
-        2019,
-        10
-      ]
-    ],
-    "volume": "159",
-    "issue": null,
-    "pages": "151-164",
-    "article_number": null,
-    "source": "https://api.crossref.org/works/10.1016%2Fj.inteco.2019.07.003"
+    "metadata": {
+      "issue": null,
+      "page": "151-164",
+      "volume": "159",
+      "doi": "10.1016/j.inteco.2019.07.003",
+      "title": [
+        "How much will the Belt and Road Initiative reduce trade costs?"
+      ],
+      "print": {
+        "date-parts": [
+          [
+            2019,
+            10
+          ]
+        ]
+      },
+      "authors": [
+        {
+          "given": "François",
+          "family": "de Soyres",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Alen",
+          "family": "Mulabdic",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Siobhan",
+          "family": "Murray",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Nadia",
+          "family": "Rocha",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Michele",
+          "family": "Ruta",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "online": null,
+      "venue": [
+        "International Economics"
+      ],
+      "abstract": null,
+      "published": {
+        "date-parts": [
+          [
+            2019,
+            10
+          ]
+        ]
+      },
+      "article": null
+    },
+    "content_scope": "出版社摘要",
+    "limitation": "屬建設情境分析，並非台灣企業實際獲益估計。"
   },
   {
     "id": "R5",
-    "status": "MATCH",
+    "status": "verified_metadata",
+    "year": 2020,
     "title": "Trade effects of the New Silk Road: A gravity analysis",
-    "title_similarity": 1.0,
-    "authors": [
-      "Suprabha Baniya",
-      "Nadia Rocha",
-      "Michele Ruta"
-    ],
-    "year": [
-      [
-        2020,
-        9
-      ]
-    ],
-    "volume": "146",
-    "issue": null,
-    "pages": "102467",
-    "article_number": "102467",
-    "source": "https://api.crossref.org/works/10.1016%2Fj.jdeveco.2020.102467"
+    "metadata": {
+      "issue": null,
+      "page": "102467",
+      "volume": "146",
+      "doi": "10.1016/j.jdeveco.2020.102467",
+      "title": [
+        "Trade effects of the New Silk Road: A gravity analysis"
+      ],
+      "print": {
+        "date-parts": [
+          [
+            2020,
+            9
+          ]
+        ]
+      },
+      "authors": [
+        {
+          "given": "Suprabha",
+          "family": "Baniya",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Nadia",
+          "family": "Rocha",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Michele",
+          "family": "Ruta",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "online": null,
+      "venue": [
+        "Journal of Development Economics"
+      ],
+      "abstract": null,
+      "published": {
+        "date-parts": [
+          [
+            2020,
+            9
+          ]
+        ]
+      },
+      "article": "102467"
+    },
+    "content_scope": "出版社摘要與方法節選；世界銀行版本",
+    "limitation": "預期效果不能當成香港 ESG 政策的已實現效果。"
   },
   {
     "id": "R6",
-    "status": "UNAVAILABLE",
-    "reason": "HTTP Error 429: Too Many Requests"
-  },
-  {
-    "id": "R7",
-    "status": "MATCH",
-    "title": "Toward a New Conception of the Environment-Competitiveness Relationship",
-    "title_similarity": 1.0,
-    "authors": [
-      "Michael E Porter",
-      "Claas van der Linde"
-    ],
-    "year": [
-      [
-        1995,
-        11,
-        1
-      ]
-    ],
-    "volume": "9",
-    "issue": "4",
-    "pages": "97-118",
-    "article_number": null,
-    "source": "https://api.crossref.org/works/10.1257%2Fjep.9.4.97"
+    "status": "verified_metadata",
+    "year": 2020,
+    "title": "Common transport infrastructure: A quantitative model and estimates from the Belt and Road Initiative",
+    "metadata": {
+      "issue": null,
+      "page": "102415",
+      "volume": "143",
+      "doi": "10.1016/j.jdeveco.2019.102415",
+      "title": [
+        "Common transport infrastructure: A quantitative model and estimates from the Belt and Road Initiative"
+      ],
+      "print": {
+        "date-parts": [
+          [
+            2020,
+            3
+          ]
+        ]
+      },
+      "authors": [
+        {
+          "given": "François",
+          "family": "de Soyres",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Alen",
+          "family": "Mulabdic",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Michele",
+          "family": "Ruta",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "online": null,
+      "venue": [
+        "Journal of Development Economics"
+      ],
+      "abstract": null,
+      "published": {
+        "date-parts": [
+          [
+            2020,
+            3
+          ]
+        ]
+      },
+      "article": "102415"
+    },
+    "content_scope": "書目摘要與世界銀行研究材料",
+    "limitation": "貿易增加與淨福利增加不能畫上等號。"
   },
   {
     "id": "R8",
-    "status": "UNAVAILABLE",
-    "reason": "HTTP Error 429: Too Many Requests"
+    "status": "verified_metadata",
+    "year": 2021,
+    "title": "Corporate green bonds",
+    "metadata": {
+      "issue": "2",
+      "page": "499-516",
+      "volume": "142",
+      "doi": "10.1016/j.jfineco.2021.01.010",
+      "title": [
+        "Corporate green bonds"
+      ],
+      "print": {
+        "date-parts": [
+          [
+            2021,
+            11
+          ]
+        ]
+      },
+      "authors": [
+        {
+          "given": "Caroline",
+          "family": "Flammer",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "online": null,
+      "venue": [
+        "Journal of Financial Economics"
+      ],
+      "abstract": null,
+      "published": {
+        "date-parts": [
+          [
+            2021,
+            11
+          ]
+        ]
+      },
+      "article": null
+    },
+    "content_scope": "作者典藏論文摘要",
+    "limitation": "不是台灣出口研究，也不保證所有發行人利率下降。"
   },
   {
     "id": "R9",
-    "status": "MATCH",
+    "status": "verified_metadata",
+    "year": 2020,
     "title": "Do shareholders benefit from green bonds?",
-    "title_similarity": 1.0,
-    "authors": [
-      "Dragon Yongjun Tang",
-      "Yupu Zhang"
-    ],
-    "year": [
-      [
-        2020,
-        4
-      ]
-    ],
-    "volume": "61",
-    "issue": null,
-    "pages": "101427",
-    "article_number": "101427",
-    "source": "https://api.crossref.org/works/10.1016%2Fj.jcorpfin.2018.12.001"
+    "metadata": {
+      "issue": null,
+      "page": "101427",
+      "volume": "61",
+      "doi": "10.1016/j.jcorpfin.2018.12.001",
+      "title": [
+        "Do shareholders benefit from green bonds?"
+      ],
+      "print": {
+        "date-parts": [
+          [
+            2020,
+            4
+          ]
+        ]
+      },
+      "authors": [
+        {
+          "given": "Dragon Yongjun",
+          "family": "Tang",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Yupu",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "online": null,
+      "venue": [
+        "Journal of Corporate Finance"
+      ],
+      "abstract": null,
+      "published": {
+        "date-parts": [
+          [
+            2020,
+            4
+          ]
+        ]
+      },
+      "article": "101427"
+    },
+    "content_scope": "出版社摘要與章節節選",
+    "limitation": "不能預設綠色金融必定降低融資成本。"
   },
   {
     "id": "R10",
-    "status": "MATCH",
+    "status": "verified_metadata",
+    "year": 2020,
     "title": "The Influence of Firm Size on the ESG Score: Corporate Sustainability Ratings Under Review",
-    "title_similarity": 1.0,
-    "authors": [
-      "Samuel Drempetic",
-      "Christian Klein",
-      "Bernhard Zwergel"
-    ],
-    "year": [
-      [
-        2019,
-        4,
-        27
-      ]
-    ],
-    "volume": "167",
-    "issue": "2",
-    "pages": "333-360",
-    "article_number": null,
-    "source": "https://api.crossref.org/works/10.1007%2Fs10551-019-04164-1"
+    "metadata": {
+      "issue": "2",
+      "page": "333-360",
+      "volume": "167",
+      "doi": "10.1007/s10551-019-04164-1",
+      "title": [
+        "The Influence of Firm Size on the ESG Score: Corporate Sustainability Ratings Under Review"
+      ],
+      "print": {
+        "date-parts": [
+          [
+            2020,
+            11
+          ]
+        ]
+      },
+      "authors": [
+        {
+          "given": "Samuel",
+          "family": "Drempetic",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Christian",
+          "family": "Klein",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Bernhard",
+          "family": "Zwergel",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "online": {
+        "date-parts": [
+          [
+            2019,
+            4,
+            27
+          ]
+        ]
+      },
+      "venue": [
+        "Journal of Business Ethics"
+      ],
+      "abstract": null,
+      "published": {
+        "date-parts": [
+          [
+            2019,
+            4,
+            27
+          ]
+        ]
+      },
+      "article": null
+    },
+    "content_scope": "出版社摘要",
+    "limitation": "高分不等於較低實際排放；研究不是台灣 SME 樣本。"
   },
   {
     "id": "R11",
-    "status": "MATCH",
+    "status": "verified_metadata",
+    "year": 2022,
     "title": "Aggregate Confusion: The Divergence of ESG Ratings",
-    "title_similarity": 1.0,
-    "authors": [
-      "Florian Berg",
-      "Julian F Kölbel",
-      "Roberto Rigobon"
-    ],
-    "year": [
-      [
-        2022,
-        5,
-        23
-      ]
-    ],
-    "volume": "26",
-    "issue": "6",
-    "pages": "1315-1344",
-    "article_number": null,
-    "source": "https://api.crossref.org/works/10.1093%2Frof%2Frfac033"
+    "metadata": {
+      "issue": "6",
+      "page": "1315-1344",
+      "volume": "26",
+      "doi": "10.1093/rof/rfac033",
+      "title": [
+        "Aggregate Confusion: The Divergence of ESG Ratings"
+      ],
+      "print": {
+        "date-parts": [
+          [
+            2022,
+            11,
+            14
+          ]
+        ]
+      },
+      "authors": [
+        {
+          "given": "Florian",
+          "family": "Berg",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "MIT Sloan ,",
+              "place": [
+                "USA"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Julian F",
+          "family": "Kölbel",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "MIT Sloan ,",
+              "place": [
+                "USA"
+              ]
+            },
+            {
+              "name": "University of Zurich ,",
+              "place": [
+                "Switzerland"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Roberto",
+          "family": "Rigobon",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "MIT Sloan ,",
+              "place": [
+                "USA"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "online": {
+        "date-parts": [
+          [
+            2022,
+            5,
+            23
+          ]
+        ]
+      },
+      "venue": [
+        "Review of Finance"
+      ],
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper investigates the divergence of environmental, social, and governance (ESG) ratings based on data from six prominent ESG rating agencies: Kinder, Lydenberg, and Domini (KLD), Sustainalytics, Moody’s ESG (Vigeo-Eiris), S&amp;P Global (RobecoSAM), Refinitiv (Asset4), and MSCI. We document the rating divergence and map the different methodologies onto a common taxonomy of categories. Using this taxonomy, we decompose the divergence into contributions of scope, measurement, and weight. Measurement contributes 56% of the divergence, scope 38%, and weight 6%. Further analyzing the reasons for measurement divergence, we detect a rater effect where a rater’s overall view of a firm influences the measurement of specific categories. The results call for greater attention to how the data underlying ESG ratings are generated.</jats:p>",
+      "published": {
+        "date-parts": [
+          [
+            2022,
+            5,
+            23
+          ]
+        ]
+      },
+      "article": null
+    },
+    "content_scope": "出版社摘要與研究節選",
+    "limitation": "不能把單一 ESG 分數當作跨市場通用合格證。"
   },
   {
     "id": "R12",
-    "status": "MATCH",
+    "status": "verified_metadata",
+    "year": 2022,
     "title": "Does Corporate ESG Performance Improve Export Intensity? Evidence from Chinese Listed Firms",
-    "title_similarity": 1.0,
-    "authors": [
-      "Qinglan Wu",
-      "Guifu Chen",
-      "Jing Han",
-      "Liyan Wu"
-    ],
-    "year": [
-      [
-        2022,
-        10,
-        11
-      ]
-    ],
-    "volume": "14",
-    "issue": "20",
-    "pages": "12981",
-    "article_number": null,
-    "source": "https://api.crossref.org/works/10.3390%2Fsu142012981"
+    "metadata": {
+      "issue": "20",
+      "page": "12981",
+      "volume": "14",
+      "doi": "10.3390/su142012981",
+      "title": [
+        "Does Corporate ESG Performance Improve Export Intensity? Evidence from Chinese Listed Firms"
+      ],
+      "print": null,
+      "authors": [
+        {
+          "given": "Qinglan",
+          "family": "Wu",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "College of Business & Management, Xiamen Huaxia University, Xiamen 361024, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-6561-3890",
+          "authenticated-orcid": false,
+          "given": "Guifu",
+          "family": "Chen",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Center for Macroeconomics Research, Paula and Gregory Chow Institute for Studies in Economics, Xiamen University, Xiamen 361005, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jing",
+          "family": "Han",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Center for Macroeconomics Research, Paula and Gregory Chow Institute for Studies in Economics, Xiamen University, Xiamen 361005, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Liyan",
+          "family": "Wu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Center for Macroeconomics Research, Paula and Gregory Chow Institute for Studies in Economics, Xiamen University, Xiamen 361005, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "online": {
+        "date-parts": [
+          [
+            2022,
+            10,
+            11
+          ]
+        ]
+      },
+      "venue": [
+        "Sustainability"
+      ],
+      "abstract": "<jats:p>Although there have been numerous studies on environment, society, and governance (ESG), its impact on firm export has not often been examined. In this paper, we use the panel data of Chinese listed firms and a newly constructed ESG index to estimate the impact of ESG on firm export intensity. We further test the likely channels through which ESG can affect firm export intensity, including the innovation channel and financing constraints channel. The findings show that corporate ESG performance imposes a significantly positive impact on firm export intensity. The channel analysis shows that ESG influences export intensity through innovation and financing constraints. Lastly, heterogeneity analysis shows that the boosting effect of ESG on firms’ export intensity mainly originates from large firms and state-owned enterprises (SOEs) in the sample. This paper suggests that policymakers should pay attention to ESG, improve ESG information disclosure and give financial support to small non-SOEs.</jats:p>",
+      "published": {
+        "date-parts": [
+          [
+            2022,
+            10,
+            11
+          ]
+        ]
+      },
+      "article": null
+    },
+    "content_scope": "出版社論文摘要",
+    "limitation": "上市企業與台灣中小企業差異很大，不能直接外推。"
   },
   {
-    "id": "R13",
-    "status": "MATCH",
-    "title": "The Impact of ESG Gaps on Green Exports in Bilateral Trade: A Linear and Nonlinear Analysis",
-    "title_similarity": 1.0,
-    "authors": [
-      "Hao-Zhe He",
-      "Gen-Fu Feng",
-      "Chun-Ping Chang"
-    ],
-    "year": [
-      [
-        2025,
-        11,
-        19
-      ]
-    ],
-    "volume": "25",
-    "issue": "2",
-    "pages": "153-175",
-    "article_number": null,
-    "source": "https://api.crossref.org/works/10.1017%2FS1474745625101109"
+    "id": "R16",
+    "status": "verified_metadata",
+    "year": 2015,
+    "title": "ESG and financial performance: aggregated evidence from more than 2000 empirical studies",
+    "metadata": {
+      "title": [
+        "ESG and financial performance: aggregated evidence from more than 2000 empirical studies"
+      ],
+      "page": "210-233",
+      "print": {
+        "date-parts": [
+          [
+            2015,
+            10,
+            2
+          ]
+        ]
+      },
+      "issue": "4",
+      "published": {
+        "date-parts": [
+          [
+            2015,
+            10,
+            2
+          ]
+        ]
+      },
+      "venue": [
+        "Journal of Sustainable Finance &amp; Investment"
+      ],
+      "abstract": null,
+      "article": null,
+      "authors": [
+        {
+          "given": "Gunnar",
+          "family": "Friede",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Timo",
+          "family": "Busch",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Alexander",
+          "family": "Bassen",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "volume": "5",
+      "online": {
+        "date-parts": [
+          [
+            2015,
+            12,
+            15
+          ]
+        ]
+      },
+      "doi": "10.1080/20430795.2015.1118917"
+    },
+    "content_scope": "出版社／作者摘要與可讀節選；Crossref 書目核對",
+    "limitation": "財務績效不等於出口績效，整合結果不能充當香港政策的因果係數。"
   },
   {
-    "id": "R14",
-    "status": "MATCH",
-    "title": "Trade Finance and the Great Trade Collapse",
-    "title_similarity": 1.0,
-    "authors": [
-      "JaeBin Ahn",
-      "Mary Amiti",
-      "David E Weinstein"
-    ],
-    "year": [
-      [
-        2011,
-        5,
-        1
-      ]
-    ],
-    "volume": "101",
-    "issue": "3",
-    "pages": "298-302",
-    "article_number": null,
-    "source": "https://api.crossref.org/works/10.1257%2Faer.101.3.298"
+    "id": "R17",
+    "status": "verified_metadata",
+    "year": 2019,
+    "title": "The effect of pro-environmental preferences on bond prices: Evidence from green bonds",
+    "metadata": {
+      "title": [
+        "The effect of pro-environmental preferences on bond prices: Evidence from green bonds"
+      ],
+      "page": "39-60",
+      "print": {
+        "date-parts": [
+          [
+            2019,
+            1
+          ]
+        ]
+      },
+      "issue": null,
+      "published": {
+        "date-parts": [
+          [
+            2019,
+            1
+          ]
+        ]
+      },
+      "venue": [
+        "Journal of Banking &amp; Finance"
+      ],
+      "abstract": null,
+      "article": null,
+      "authors": [
+        {
+          "given": "Olivier David",
+          "family": "Zerbib",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "volume": "98",
+      "online": null,
+      "doi": "10.1016/j.jbankfin.2018.10.012"
+    },
+    "content_scope": "出版社／作者摘要與可讀節選；Crossref 書目核對",
+    "limitation": "債券樣本結果不等於台灣中小企業銀行貸款能獲得同樣優惠。"
   },
   {
-    "id": "R15",
-    "status": "MATCH",
-    "title": "Financial Constraints and Exports: Evidence from Chinese Firms",
-    "title_similarity": 1.0,
-    "authors": [
-      "P. Egger",
-      "M. Kesina"
-    ],
-    "year": [
-      [
-        2013,
-        11,
-        18
-      ]
-    ],
-    "volume": "59",
-    "issue": "4",
-    "pages": "676-706",
-    "article_number": null,
-    "source": "https://api.crossref.org/works/10.1093%2Fcesifo%2Fifs036"
+    "id": "R18",
+    "status": "verified_metadata",
+    "year": 2024,
+    "title": "The green corporate bond issuance premium",
+    "metadata": {
+      "title": [
+        "The green corporate bond issuance premium"
+      ],
+      "page": "107126",
+      "print": {
+        "date-parts": [
+          [
+            2024,
+            5
+          ]
+        ]
+      },
+      "issue": null,
+      "published": {
+        "date-parts": [
+          [
+            2024,
+            5
+          ]
+        ]
+      },
+      "venue": [
+        "Journal of Banking &amp; Finance"
+      ],
+      "abstract": null,
+      "article": "107126",
+      "authors": [
+        {
+          "given": "John",
+          "family": "Caramichael",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-4800-9154",
+          "authenticated-orcid": false,
+          "given": "Andreas C.",
+          "family": "Rapp",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "volume": "162",
+      "online": null,
+      "doi": "10.1016/j.jbankfin.2024.107126"
+    },
+    "content_scope": "出版社／作者摘要與可讀節選；Crossref 書目核對",
+    "limitation": "不能把全球債市平均差異直接填成台灣出口商的利率下降幅度。"
+  },
+  {
+    "id": "R19",
+    "status": "verified_metadata",
+    "year": 2020,
+    "title": "Where's the greenium?",
+    "metadata": {
+      "title": [
+        "Where's the greenium?"
+      ],
+      "page": "101312",
+      "print": {
+        "date-parts": [
+          [
+            2020,
+            4
+          ]
+        ]
+      },
+      "issue": "2-3",
+      "published": {
+        "date-parts": [
+          [
+            2020,
+            4
+          ]
+        ]
+      },
+      "venue": [
+        "Journal of Accounting and Economics"
+      ],
+      "abstract": null,
+      "article": "101312",
+      "authors": [
+        {
+          "given": "David F.",
+          "family": "Larcker",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Edward M.",
+          "family": "Watts",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "volume": "69",
+      "online": null,
+      "doi": "10.1016/j.jacceco.2020.101312"
+    },
+    "content_scope": "出版社／作者摘要與可讀節選；Crossref 書目核對",
+    "limitation": "市政債與公司債市場不同，不能據此否定所有綠色融資優惠。"
+  },
+  {
+    "id": "R20",
+    "status": "verified_metadata",
+    "year": 2021,
+    "title": "The pricing of green bonds: Are financial institutions special?",
+    "metadata": {
+      "title": [
+        "The pricing of green bonds: Are financial institutions special?"
+      ],
+      "page": "100873",
+      "print": {
+        "date-parts": [
+          [
+            2021,
+            6
+          ]
+        ]
+      },
+      "issue": null,
+      "published": {
+        "date-parts": [
+          [
+            2021,
+            6
+          ]
+        ]
+      },
+      "venue": [
+        "Journal of Financial Stability"
+      ],
+      "abstract": null,
+      "article": "100873",
+      "authors": [
+        {
+          "given": "Serena",
+          "family": "Fatica",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Roberto",
+          "family": "Panzica",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Michela",
+          "family": "Rancan",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "volume": "54",
+      "online": null,
+      "doi": "10.1016/j.jfs.2021.100873"
+    },
+    "content_scope": "出版社／作者摘要與可讀節選；Crossref 書目核對",
+    "limitation": "銀行發債成本與出口商取得貸款的條件需要分開觀察。"
+  },
+  {
+    "id": "R21",
+    "status": "verified_metadata",
+    "year": 2017,
+    "title": "The Impacts of Environmental Regulations on Competitiveness",
+    "metadata": {
+      "title": [
+        "The Impacts of Environmental Regulations on Competitiveness"
+      ],
+      "page": "183-206",
+      "print": {
+        "date-parts": [
+          [
+            2017,
+            7,
+            1
+          ]
+        ]
+      },
+      "issue": "2",
+      "published": {
+        "date-parts": [
+          [
+            2017,
+            7,
+            1
+          ]
+        ]
+      },
+      "venue": [
+        "Review of Environmental Economics and Policy"
+      ],
+      "abstract": null,
+      "article": null,
+      "authors": [
+        {
+          "given": "Antoine",
+          "family": "Dechezleprêtre",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Misato",
+          "family": "Sato",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "volume": "11",
+      "online": null,
+      "doi": "10.1093/reep/rex013"
+    },
+    "content_scope": "出版社／作者摘要與可讀節選；Crossref 書目核對",
+    "limitation": "環境規範只涵蓋 ESG 的部分面向；不能宣稱創新一定抵銷成本。已核對 2019 勘誤，避免沿用原就業敘述。"
+  },
+  {
+    "id": "R22",
+    "status": "verified_metadata",
+    "year": 2021,
+    "title": "Global value chains and the environmental sustainability of emerging market firms: A systematic review of literature and research agenda",
+    "metadata": {
+      "title": [
+        "Global value chains and the environmental sustainability of emerging market firms: A systematic review of literature and research agenda"
+      ],
+      "page": "101857",
+      "print": {
+        "date-parts": [
+          [
+            2021,
+            10
+          ]
+        ]
+      },
+      "issue": "5",
+      "published": {
+        "date-parts": [
+          [
+            2021,
+            10
+          ]
+        ]
+      },
+      "venue": [
+        "International Business Review"
+      ],
+      "abstract": null,
+      "article": "101857",
+      "authors": [
+        {
+          "given": "Ismail",
+          "family": "Golgeci",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Dilshod",
+          "family": "Makhmadshoev",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Mehmet",
+          "family": "Demirbag",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "volume": "30",
+      "online": null,
+      "doi": "10.1016/j.ibusrev.2021.101857"
+    },
+    "content_scope": "出版社／作者摘要與可讀節選；Crossref 書目核對",
+    "limitation": "新興市場研究不能直接代表台灣；沒有估計香港服務的效果。"
+  },
+  {
+    "id": "R23",
+    "status": "verified_metadata",
+    "year": 2019,
+    "title": "A systematic review of sustainable supply chain management in global supply chains",
+    "metadata": {
+      "title": [
+        "A systematic review of sustainable supply chain management in global supply chains"
+      ],
+      "page": "1084-1098",
+      "print": {
+        "date-parts": [
+          [
+            2019,
+            1
+          ]
+        ]
+      },
+      "issue": null,
+      "published": {
+        "date-parts": [
+          [
+            2019,
+            1
+          ]
+        ]
+      },
+      "venue": [
+        "Journal of Cleaner Production"
+      ],
+      "abstract": null,
+      "article": null,
+      "authors": [
+        {
+          "given": "Esteban",
+          "family": "Koberg",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Annachiara",
+          "family": "Longoni",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "volume": "207",
+      "online": null,
+      "doi": "10.1016/j.jclepro.2018.10.033"
+    },
+    "content_scope": "出版社／作者摘要與可讀節選；Crossref 書目核對",
+    "limitation": "整理的治理機制不是對台灣出口增加幅度的實證估計。"
+  },
+  {
+    "id": "R24",
+    "status": "verified_metadata",
+    "year": 2016,
+    "title": "How firms export: Processing vs. ordinary trade with financial frictions",
+    "metadata": {
+      "title": [
+        "How firms export: Processing vs. ordinary trade with financial frictions"
+      ],
+      "page": "120-137",
+      "print": {
+        "date-parts": [
+          [
+            2016,
+            5
+          ]
+        ]
+      },
+      "issue": null,
+      "published": {
+        "date-parts": [
+          [
+            2016,
+            5
+          ]
+        ]
+      },
+      "venue": [
+        "Journal of International Economics"
+      ],
+      "abstract": null,
+      "article": null,
+      "authors": [
+        {
+          "given": "Kalina",
+          "family": "Manova",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Zhihong",
+          "family": "Yu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "volume": "100",
+      "online": null,
+      "doi": "10.1016/j.jinteco.2016.02.005"
+    },
+    "content_scope": "出版社／作者摘要與可讀節選；Crossref 書目核對",
+    "limitation": "中國加工貿易制度與台灣不同；不能把其估計值當成本專題參數。"
+  },
+  {
+    "id": "R25",
+    "status": "verified_metadata",
+    "year": 2017,
+    "title": "Trade and the Environment: New Methods, Measurements, and Results",
+    "metadata": {
+      "title": [
+        "Trade and the Environment: New Methods, Measurements, and Results"
+      ],
+      "page": "59-85",
+      "print": {
+        "date-parts": [
+          [
+            2017,
+            8,
+            2
+          ]
+        ]
+      },
+      "issue": "1",
+      "published": {
+        "date-parts": [
+          [
+            2017,
+            8,
+            2
+          ]
+        ]
+      },
+      "venue": [
+        "Annual Review of Economics"
+      ],
+      "abstract": "<jats:p>We review recent research linking international trade to the environment, with a focus on new results and methods. The review is given structure by a novel decomposition linking changes in emissions to changes in productive activity at the plant, firm, industry, and national levels. Although some new results have emerged from the application of a Melitz-style approach to trade and the environment, the full potential of this approach has not yet been realized. We discuss existing empirical and theoretical work, introduce three new hypotheses, and suggest paths for future researchers to follow.</jats:p>",
+      "article": null,
+      "authors": [
+        {
+          "given": "Jevan",
+          "family": "Cherniwchan",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Alberta School of Business, University of Alberta, Edmonton, Canada T6G 2R6;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Brian R.",
+          "family": "Copeland",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Vancouver School of Economics, University of British Columbia, Vancouver, Canada V6T 1L4"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "M. Scott",
+          "family": "Taylor",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Economics, University of Calgary, Calgary, Canada T2N 1N4"
+            },
+            {
+              "name": "National Bureau of Economic Research, Cambridge, Massachusetts 02138"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "volume": "9",
+      "online": null,
+      "doi": "10.1146/annurev-economics-063016-103756"
+    },
+    "content_scope": "出版社／作者摘要與可讀節選；Crossref 書目核對",
+    "limitation": "出口增加不等於排放下降，也不等於政策帶來淨福利。"
+  },
+  {
+    "id": "R26",
+    "status": "verified_metadata",
+    "year": 2025,
+    "title": "The Joint Effects of Firm’s Globalization and ESG Rating on Financial Performance: Evidence from Food Industry in Taiwan",
+    "metadata": {
+      "issue": "6",
+      "page": "2580",
+      "volume": "17",
+      "doi": "10.3390/su17062580",
+      "title": [
+        "The Joint Effects of Firm’s Globalization and ESG Rating on Financial Performance: Evidence from Food Industry in Taiwan"
+      ],
+      "print": null,
+      "authors": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-8799-4789",
+          "authenticated-orcid": false,
+          "given": "Sheng-Hung",
+          "family": "Chen",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of International Business, National Kaohsiung University of Science and Technology, Kaohsiung 807, Taiwan"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Hao-Cheng",
+          "family": "Hsu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Finance, National Chung Hsing University, Taichung 40227, Taiwan"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Shih-Ting",
+          "family": "Lin",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of International Business, National Kaohsiung University of Science and Technology, Kaohsiung 807, Taiwan"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "online": {
+        "date-parts": [
+          [
+            2025,
+            3,
+            14
+          ]
+        ]
+      },
+      "venue": [
+        "Sustainability"
+      ],
+      "abstract": "<jats:p>The internationalization process helps firms accumulate business knowledge and experience; however, firms also enjoy the benefit of decreasing risk due to diversification. The Taiwanese food industry has encountered some difficulties in internationalization, including insufficient production capacity, high tariffs, the lack of long-term planning by the government, and inadequate support from internal organizations. Overall, it is relatively problematic for the food industry to achieve internationalization, and Environmental, Social, and Governance (ESG) is the trend of sustainable development for enterprises to fulfill. This paper empirically explores the joint impact of the degree of internationalization and ESG ratings on the financial performance of the Taiwanese food industry from 2015 to 2021. Our empirical results found that international diversification and ESG performance have joint positive and significant effects on the return on assets (ROA), return on equity (ROE), and return on sales (ROS) of the food industry, respectively. This means that the higher the internationalization of overseas companies in the food industry, the better the ESG performance would significantly improve its financial performance.</jats:p>",
+      "published": {
+        "date-parts": [
+          [
+            2025,
+            3,
+            14
+          ]
+        ]
+      },
+      "article": null
+    },
+    "content_scope": "出版社／作者摘要與可讀節選；Crossref 書目核對",
+    "limitation": "國際化衡量包含海外投資，結果變數為財務績效；並非香港政策或出口因果效果，也不能外推全部產業。"
+  },
+  {
+    "id": "R27",
+    "status": "official_repository_no_doi",
+    "year": 2025,
+    "title": "顧客集中度與外銷比率對ESG風險之影響",
+    "metadata": null,
+    "content_scope": "政治大學官方典藏中英文摘要；未取得全文，無 DOI",
+    "limitation": "研究方向是外銷特徵與 ESG 風險，不能倒推 ESG 造成出口增加；學位論文不等同經期刊同儕審查，年份依學位記錄而非上架日期。"
   }
 ]
