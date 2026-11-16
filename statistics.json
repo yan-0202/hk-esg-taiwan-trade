@@ -1,0 +1,129 @@
+{
+  "exports": [
+    {
+      "year": 2015,
+      "total": 284433978,
+      "china_hk": 112386426,
+      "us": 34448479,
+      "china_hk_share": 39.5,
+      "us_share": 12.1,
+      "source": "S9"
+    },
+    {
+      "year": 2016,
+      "total": 279174656,
+      "china_hk": 111986143,
+      "us": 33396311,
+      "china_hk_share": 40.1,
+      "us_share": 12.0,
+      "source": "S9"
+    },
+    {
+      "year": 2017,
+      "total": 315486658,
+      "china_hk": 129910593,
+      "us": 36772593,
+      "china_hk_share": 41.2,
+      "us_share": 11.7,
+      "source": "S9"
+    },
+    {
+      "year": 2018,
+      "total": 334007338,
+      "china_hk": 137898804,
+      "us": 39490380,
+      "china_hk_share": 41.3,
+      "us_share": 11.8,
+      "source": "S9"
+    },
+    {
+      "year": 2019,
+      "total": 329194090,
+      "china_hk": 132148250,
+      "us": 46242851,
+      "china_hk_share": 40.1,
+      "us_share": 14.0,
+      "source": "S9"
+    },
+    {
+      "year": 2020,
+      "total": 345125944,
+      "china_hk": 151381360,
+      "us": 50549921,
+      "china_hk_share": 43.9,
+      "us_share": 14.6,
+      "source": "S10"
+    },
+    {
+      "year": 2021,
+      "total": 446371191,
+      "china_hk": 188874561,
+      "us": 65685966,
+      "china_hk_share": 42.3,
+      "us_share": 14.7,
+      "source": "S11"
+    },
+    {
+      "year": 2022,
+      "total": 479415230,
+      "china_hk": 185875178,
+      "us": 75052059,
+      "china_hk_share": 38.8,
+      "us_share": 15.7,
+      "source": "S11"
+    },
+    {
+      "year": 2023,
+      "total": 432419962,
+      "china_hk": 152238741,
+      "us": 76234038,
+      "china_hk_share": 35.2,
+      "us_share": 17.6,
+      "source": "S11"
+    },
+    {
+      "year": 2024,
+      "total": 474925154,
+      "china_hk": 150588672,
+      "us": 111361914,
+      "china_hk_share": 31.7,
+      "us_share": 23.4,
+      "source": "S11"
+    },
+    {
+      "year": 2025,
+      "total": 639982965,
+      "china_hk": 170462433,
+      "us": 198257666,
+      "china_hk_share": 26.6,
+      "us_share": 31.0,
+      "source": "S11"
+    }
+  ],
+  "finance": [
+    {
+      "year": 2023,
+      "bonds": 30.1,
+      "loans": 22.2,
+      "total": 52.3,
+      "source": "S4"
+    },
+    {
+      "year": 2024,
+      "bonds": 43.1,
+      "loans": 41.3,
+      "total": 84.4,
+      "source": "S12"
+    },
+    {
+      "year": 2025,
+      "bonds": 37.7,
+      "loans": 38.8,
+      "total": 76.5,
+      "source": "S12"
+    }
+  ],
+  "export_definition": "一般貿易制度；市場占比由同一列美元出口值除以總出口計算，四捨五入至一位。歷史發布版本拼接，非同一下載時點的最新回溯修訂序列。",
+  "finance_definition": "香港安排的綠色與永續債券及貸款；十億美元。2015–2022 尚未核對可比數列，保留缺值，不作零值或插補。",
+  "checked": "2026-11-17"
+}
